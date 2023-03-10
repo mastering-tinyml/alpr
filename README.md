@@ -1,2 +1,1 @@
-# alpr
-automatic license-plate recognition (ALPR)
+# Automatic License-Plate Recognition (ALPR)
